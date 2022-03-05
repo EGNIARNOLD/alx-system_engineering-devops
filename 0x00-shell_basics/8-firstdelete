@@ -1,2 +1,2 @@
 #!/bin/bash
-rm holberton betty
+chmod 007 hello

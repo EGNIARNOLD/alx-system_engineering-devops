@@ -1,2 +1,2 @@
 #!/bin/bash
-mv betty /tmp/holberton
+chmod ugo+x hello

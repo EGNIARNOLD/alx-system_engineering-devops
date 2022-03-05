@@ -1,2 +1,2 @@
 #!/bin/bash
-rmdir holberton/
+chmod 753 hello
